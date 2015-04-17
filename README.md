@@ -37,5 +37,5 @@ Now in go code you can save sessions like so:
 
 The session data will be stored in the collection under the "session-data" key. Sorry, no way for me to switch that key name on the fly right now.
 
-This library also currently relies on another library I'm writing `bitbucket.org/starJammer/arango`. It's a REST API for arangodb written in go.
+This library also currently relies on another library I'm writing `github.com/starJammer/arango`. It's a REST API for arangodb written in go.
 Maybe in the future I will remove this dependency and only use the http package.
