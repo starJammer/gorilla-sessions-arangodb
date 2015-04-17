@@ -1,7 +1,7 @@
 package gsarangodb
 
 import (
-	"bitbucket.org/starJammer/arango"
+	"github.com/starJammer/arango"
 	"fmt"
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"
